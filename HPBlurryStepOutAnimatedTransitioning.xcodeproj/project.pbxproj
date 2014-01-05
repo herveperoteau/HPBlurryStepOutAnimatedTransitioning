@@ -53,6 +53,7 @@
 		0938979D18788DC700E72AF0 /* HPBlurryStepOutAnimatedTransitioningTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HPBlurryStepOutAnimatedTransitioningTests-Info.plist"; sourceTree = "<group>"; };
 		0938979F18788DC700E72AF0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		093897A118788DC700E72AF0 /* HPBlurryStepOutAnimatedTransitioningTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HPBlurryStepOutAnimatedTransitioningTests.m; sourceTree = "<group>"; };
+		093897AB1879944E00E72AF0 /* HPBlurryStepOutAnimatedTransitioning.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HPBlurryStepOutAnimatedTransitioning.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		0938977918788DC700E72AF0 = {
 			isa = PBXGroup;
 			children = (
+				093897AB1879944E00E72AF0 /* HPBlurryStepOutAnimatedTransitioning.podspec */,
 				0938978718788DC700E72AF0 /* HPBlurryStepOutAnimatedTransitioning */,
 				0938979B18788DC700E72AF0 /* HPBlurryStepOutAnimatedTransitioningTests */,
 				0938978418788DC700E72AF0 /* Frameworks */,
@@ -409,6 +411,7 @@
 				093897A718788DC700E72AF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		093897A818788DC700E72AF0 /* Build configuration list for PBXNativeTarget "HPBlurryStepOutAnimatedTransitioningTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +420,7 @@
 				093897AA18788DC700E72AF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
